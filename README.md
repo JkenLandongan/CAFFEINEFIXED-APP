@@ -20,6 +20,7 @@ Caffeine Fixed App.
 
 # Home Screen
 <img src="assets/images/onboarding.jpg">  
+<img src="assets/images/onboarding2.jpg">  
 
 # Sign Up Screen
 <img src="assets/images/signup.jpg">  
